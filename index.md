@@ -1,3 +1,3 @@
 # Velkommen til test-blog
 
-Dette er en test-side. Ingen ting å bry seg og ...
+Denne siden er kun for testing av github pages med jekyll.
