@@ -1,9 +1,9 @@
 theme: minima
 title: Min tittel i config yaml
-author: GitHub User
+author: Evelin Grana
 email: evelin.grana@outlook.no
 description: > # this means to ignore newlines until "baseurl:"
-  En test-blogg - ikke noe mer. Oppdateres i yaml configen
+  En test logg ikke noe mer Oppdateres i yaml configen
 
 # social links
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
