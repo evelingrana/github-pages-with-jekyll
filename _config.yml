@@ -1,8 +1,8 @@
 theme: minima
-title: Min tittel i config yaml
+title: Blogøvelse
 author: Evelin Grana
 email: evelin.grana@outlook.no
-description: En testlogg oppdateres i yaml configen # this means to ignore newlines until "baseurl:"
+description: En testblogg i GitHub pages og Jekyll # this means to ignore newlines until "baseurl:"
 
 # social links
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
